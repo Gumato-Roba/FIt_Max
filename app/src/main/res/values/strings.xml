@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WorkOutLog</string>
+    <string name="sign_up">Don\'t have an account? <u>Sign up</u></string>
+    <string name="login">Login</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="signup">Signup</string>
+    <string name="log_in">Already have an account? <u>Log in</u></string>
+    <string name="track">track</string>
+    <string name="plan">plan</string>
+    <string name="profile">profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="track_fragment">TRACK FRAGMENT</string>
+    <string name="plan_fragment">PLAN FRAGMENT</string>
+    <string name="profile_fragment">PROFILE FRAGMENT</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <!--    <string name="login2">Already have ana account? Log_in</string>-->
+
+
+</resources>
